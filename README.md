@@ -16,6 +16,6 @@ Os seguintes cenários de testes foram utilizados:
    
    -Consulta CEP por endereço e com menos de 3 caracteres com método GET
    
-   - Validação de campos obrigatórios na consulta de CEP com método GET
+   -Validação de campos obrigatórios na consulta de CEP com método GET
 
   
